@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>SnapMerge Updates</title>
-    <description>Updates for SnapMerge</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>SnapMerge Updates</title>
+        <description>Updates for SnapMerge</description>
+        <language>en</language>
+        <item>
+            <title>1.1</title>
+            <pubDate>Tue, 07 Apr 2026 23:34:21 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/romanyqa/snapmerge-updates/main/SnapMerge-1.1.zip" length="2653856" type="application/octet-stream" sparkle:edSignature="QQrA6m1DptI1LeHrU3/Z6xbATTCCHFSm+BACkGj0t7HY7cTF6sH4bBpXI65E/A03IFxl4ZZ7YuP6QfL1bM/qBQ=="/>
+        </item>
+    </channel>
 </rss>
