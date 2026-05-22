@@ -5,6 +5,19 @@
         <description>Updates for SnapMerge</description>
         <language>en</language>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Fri, 22 May 2026 23:01:41 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/romanyqa/snapmerge-updates/main/SnapMerge-1.2.2.zip" length="2782591" type="application/octet-stream" sparkle:edSignature="ODqNiLyI9UZIZjx+wli1xTiK//2HbkLJTrT9oCVypc8ql7Ss+Z+HsPXAt9JbWGzl02D7uD/NHyOU4JPyyLYLDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/romanyqa/snapmerge-updates/main/SnapMerge5-4.delta" sparkle:deltaFrom="4" length="178018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yiuGND9KsK5/KDf7wPjS2To5T01m5E75aNZ4vadPgoXUr2pfvSXbeqZi7o6A4pfhR8XDndzHXz7ZfTVAz+9lCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/romanyqa/snapmerge-updates/main/SnapMerge5-3.delta" sparkle:deltaFrom="3" length="177122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Tx0Wr0zUMCSriCL49LrOM1ezEopWtUYiirhKTLZKBtYcat3EFKIWH7Pq3wv79g513cHtO6Xepj1P2sFxTrYTBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/romanyqa/snapmerge-updates/main/SnapMerge5-2.delta" sparkle:deltaFrom="2" length="299482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hBJ27fnCF43Ubwj0FPGB0oQ+BaRCimHuHfbaR9ubATnUoh/S0adIIxqKxlLcHhrD6rUHVrZFJs2m41lq+LuZAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Mon, 18 May 2026 00:40:49 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -26,14 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/romanyqa/snapmerge-updates/main/SnapMerge3-2.delta" sparkle:deltaFrom="2" length="266174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2TK84X/17J6CqytyZYjk/1fzNtNj1nAymOiCbsV0YDzLYHTXF3T6LC4HvVHWFEXto3k51NvYtZNSIUjVrb0aBA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Tue, 07 Apr 2026 23:34:21 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/romanyqa/snapmerge-updates/main/SnapMerge-1.1.zip" length="2653856" type="application/octet-stream" sparkle:edSignature="QQrA6m1DptI1LeHrU3/Z6xbATTCCHFSm+BACkGj0t7HY7cTF6sH4bBpXI65E/A03IFxl4ZZ7YuP6QfL1bM/qBQ=="/>
         </item>
     </channel>
 </rss>
